@@ -1,0 +1,1 @@
+print('Hello to the CST 1510 module !!!')
